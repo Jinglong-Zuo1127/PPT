@@ -1,0 +1,64 @@
+{
+  "scope": "离线教学控制流；固定规则与数据，未调用LLM或真实旅游API",
+  "travel": [
+    {
+      "step": "候选方案",
+      "total": 480
+    },
+    {
+      "step": "教学工具观察：餐费220元",
+      "total": 580
+    },
+    {
+      "step": "检查预算",
+      "passes": false
+    },
+    {
+      "step": "选择替代午餐",
+      "total": 460
+    },
+    {
+      "step": "最终费用检查",
+      "passes": true,
+      "remaining": 40
+    }
+  ],
+  "parentheses": [
+    {
+      "input": "",
+      "expected": true,
+      "count_only": true,
+      "corrected": true
+    },
+    {
+      "input": "()",
+      "expected": true,
+      "count_only": true,
+      "corrected": true
+    },
+    {
+      "input": "(())",
+      "expected": true,
+      "count_only": true,
+      "corrected": true
+    },
+    {
+      "input": ")(",
+      "expected": false,
+      "count_only": true,
+      "corrected": false
+    },
+    {
+      "input": "(()",
+      "expected": false,
+      "count_only": false,
+      "corrected": false
+    },
+    {
+      "input": ")",
+      "expected": false,
+      "count_only": false,
+      "corrected": false
+    }
+  ]
+}
