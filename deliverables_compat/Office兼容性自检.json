@@ -1,0 +1,37 @@
+{
+  "file": "智能体综述_五章完整版_Office兼容版.pptx",
+  "checks": {
+    "zip_crc": true,
+    "unique_zip_entries": true,
+    "all_xml_well_formed": true,
+    "standard_presentation_root": true,
+    "standard_plain_notes": true,
+    "slides_50": true,
+    "16_9": true,
+    "all_notes_present": true,
+    "no_forbidden_content": true,
+    "all_visible_shapes_basic": true,
+    "no_text_outside_slide": true,
+    "roundtrip_slide_count": true,
+    "roundtrip_slide_text": true,
+    "roundtrip_notes_text": true,
+    "pdf_opens_and_50_pages": true,
+    "pdf_all_text_present": true,
+    "pdf_textbox_bounds": true,
+    "original_unchanged": true
+  },
+  "forbidden_content_counts": {
+    "shape_groups": 0,
+    "graphic_frames": 0,
+    "ole_objects": 0,
+    "alternate_content": 0,
+    "extension_lists": 0,
+    "chart_parts": 0,
+    "embedded_files": 0,
+    "macro_parts": 0
+  },
+  "issues": [],
+  "passed": true,
+  "pptx_sha256": "bf5df26a4f7242d42e7610799c31e269c12a7d14e9cb55014c4c1f888bf6e57b",
+  "validation_scope": "ZIP/XML/OPC relationship and content-type checks, python-pptx reopen, LibreOfficeDev 26.8.0.0.alpha0 import/export roundtrip, 50-page PDF text and geometry checks. Microsoft PowerPoint is not installed; this report is not an actual PowerPoint test or complete ECMA schema validation."
+}
