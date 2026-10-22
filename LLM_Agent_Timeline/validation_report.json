@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "checks": {
+    "one_slide": true,
+    "one_pdf_page": true,
+    "16_9": true,
+    "nine_selected_works": true,
+    "all_selected_from_original": true,
+    "chronological_months": true,
+    "month_labels_match_nodes": true,
+    "basic_objects_only": true,
+    "no_complex_parts": true,
+    "all_notes_present": true,
+    "icons_match_manifest": true,
+    "libreoffice_roundtrip_one_slide": true,
+    "libreoffice_roundtrip_text_equal": true,
+    "libreoffice_roundtrip_notes_equal": true
+  },
+  "complex_part_counts": {
+    "groups": 0,
+    "chart_parts": 0,
+    "embeddings": 0,
+    "ole": 0,
+    "optional_extensions": 0
+  },
+  "issues": [],
+  "pptx_sha256": "efbff448e32e94466263304b62985a3fda892f2095fcff878f125025fc003c96",
+  "scope": "python-pptx reopen, ZIP/XML/relationships, PDF text bounds and overlaps; LibreOffice roundtrip if present. No Microsoft PowerPoint client test."
+}

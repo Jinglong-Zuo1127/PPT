@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ReAct",
+    "month": "2022.10",
+    "node_x_inches": 1.2,
+    "node_y_inches": 4.0,
+    "description_tier": "upper"
+  },
+  {
+    "name": "AutoGPT",
+    "month": "2023.03",
+    "node_x_inches": 2.5575,
+    "node_y_inches": 4.0,
+    "description_tier": "lower"
+  },
+  {
+    "name": "CAMEL",
+    "month": "2023.03",
+    "node_x_inches": 3.915,
+    "node_y_inches": 4.0,
+    "description_tier": "upper"
+  },
+  {
+    "name": "Generative Agents",
+    "month": "2023.04",
+    "node_x_inches": 5.2725,
+    "node_y_inches": 4.0,
+    "description_tier": "lower"
+  },
+  {
+    "name": "MetaGPT",
+    "month": "2023.08",
+    "node_x_inches": 6.63,
+    "node_y_inches": 4.0,
+    "description_tier": "upper"
+  },
+  {
+    "name": "Mixture-of-Agents",
+    "month": "2024.06",
+    "node_x_inches": 7.9875,
+    "node_y_inches": 4.0,
+    "description_tier": "lower"
+  },
+  {
+    "name": "VideoMind",
+    "month": "2025.03",
+    "node_x_inches": 9.344999999999999,
+    "node_y_inches": 4.0,
+    "description_tier": "upper"
+  },
+  {
+    "name": "BrowseMaster",
+    "month": "2025.08",
+    "node_x_inches": 10.702499999999999,
+    "node_y_inches": 4.0,
+    "description_tier": "lower"
+  },
+  {
+    "name": "Tool-R1",
+    "month": "2025.09",
+    "node_x_inches": 12.059999999999999,
+    "node_y_inches": 4.0,
+    "description_tier": "upper"
+  }
+]
